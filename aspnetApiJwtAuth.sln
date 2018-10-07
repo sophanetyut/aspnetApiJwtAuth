@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetApiJwtAuth", "aspnetApiJwtAuth\aspnetApiJwtAuth.csproj", "{D80D76ED-7C1E-4D69-8D11-59D487E1BBC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80D76ED-7C1E-4D69-8D11-59D487E1BBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80D76ED-7C1E-4D69-8D11-59D487E1BBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80D76ED-7C1E-4D69-8D11-59D487E1BBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80D76ED-7C1E-4D69-8D11-59D487E1BBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D7D84D-DEE5-4769-8C8B-1558D96B8370}
+	EndGlobalSection
+EndGlobal
